@@ -1,6 +1,6 @@
 <?php 
 
-namespace RealRipley\BootstrapForm;
+namespace Clroma\BootstrapForm;
 
 class Type
 {
