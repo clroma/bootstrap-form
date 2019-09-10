@@ -1,6 +1,6 @@
 <?php
 
-use RealRipley\BootstrapForm\BootstrapForm;
+use Clroma\BootstrapForm\BootstrapForm;
 
 class BootstrapFormTest extends PHPUnit_Framework_TestCase
 {
