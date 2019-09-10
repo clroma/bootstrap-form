@@ -1,6 +1,6 @@
 <?php 
 
-namespace RealRipley\BootstrapForm\Facades;
+namespace clroma\BootstrapForm\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
