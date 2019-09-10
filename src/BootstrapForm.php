@@ -1,6 +1,6 @@
 <?php
 
-namespace RealRipley\BootstrapForm;
+namespace Clroma\BootstrapForm;
 
 use Collective\Html\FormBuilder;
 use Collective\Html\HtmlBuilder;
