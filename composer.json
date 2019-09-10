@@ -22,10 +22,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "clroma\\BootstrapForm\\BootstrapFormServiceProvider"
+                "Clroma\\BootstrapForm\\BootstrapFormServiceProvider"
             ],
             "aliases": {
-                "BootForm": "clroma\\BootstrapForm\\Facades\\BootstrapForm"
+                "BootForm": "Clroma\\BootstrapForm\\Facades\\BootstrapForm"
             }
         }
     },
