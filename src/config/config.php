@@ -1,6 +1,6 @@
 <?php
 
-use RealRipley\BootstrapForm\Type;
+use Clroma\BootstrapForm\Type;
 
 return [
 
