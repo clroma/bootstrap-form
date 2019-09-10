@@ -1,6 +1,6 @@
 <?php 
 
-namespace clroma\BootstrapForm\Facades;
+namespace Clroma\BootstrapForm\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
